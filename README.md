@@ -17,7 +17,7 @@
 
 ### ⚡ About Me
 
-I'm an Electrical & Information Engineering undergraduate at the **University of Ruhuna**, based in Mullaitivu, Sri Lanka. My work sits at the intersection of three areas:
+I'm an Electrical & Information Engineering undergraduate from Mullaitivu, Sri Lanka, currently studying at the University of Ruhuna. My main areas of interest include:
 
 ```txt
 class Yathivarman:
