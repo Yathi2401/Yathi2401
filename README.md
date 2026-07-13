@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Yathivarman%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Power%20%26%20Energy%20Systems%20%7C%20Embedded%20Systems%20%7C%20AI%2FML&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There,%20I'm%20Yathivarman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/yathi01">
   <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+%26+Information+Engineering+Undergrad;Power+%26+Energy+Systems+Enthusiast;Embedded+Systems+%7C+Industrial+Automation;AI%2FML+Explorer;Turning+Circuits+and+Code+into+Solutions.&font=Fira%20Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=21&pause=1500" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yathi2401&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Yathi2401?style=for-the-badge&color=0A66C2&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/Yathi2401?style=for-the-badge&color=F7DF1E&label=STARS)
 
-<br/>
-
-![Location](https://img.shields.io/badge/📍-Mullaitivu%2C_Sri_Lanka-2c5364?style=for-the-badge)
-![University](https://img.shields.io/badge/🎓-University_of_Ruhuna-2c5364?style=for-the-badge)
-![Email](https://img.shields.io/badge/✉️-yathivarman.eie%40gmail.com-2c5364?style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=4" width="100%"/>
-
 </div>
+
+---
 
 ### ⚡ About Me
 
-I'm an Electrical & Information Engineering undergraduate at the **University of Ruhuna**. My work sits at the intersection of three areas:
+I'm an Electrical & Information Engineering undergraduate at the **University of Ruhuna**, based in Mullaitivu, Sri Lanka. My work sits at the intersection of three areas:
 
 ```txt
 class Yathivarman:
@@ -40,15 +34,26 @@ class Yathivarman:
 - 🔩 **Embedded Systems & Industrial Automation** — PLC/ladder logic control, real-time state machines, hardware-software integration
 - 🤖 **AI/ML** — neural networks, classification, model training & evaluation
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=4" width="100%"/>
-</div>
+---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mysql,react,nodejs,vercel,git,githubactions&theme=dark" /><br/><br/>
+**Languages**
+<br/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data & Databases**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge)
 
 **Power, Embedded & Automation**
 <br/>
@@ -65,21 +70,17 @@ class Yathivarman:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Data & Databases**
+**Web & Deployment**
 <br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge)
-
-**Deployment**
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=4" width="100%"/>
-</div>
+---
 
 ### 🚀 Featured Projects
 
@@ -150,9 +151,7 @@ Full-stack web platform built with **React/Vite** on the frontend and **Node.js/
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=4" width="100%"/>
-</div>
+---
 
 ### 🤝 Connect With Me
 
@@ -164,4 +163,4 @@ Full-stack web platform built with **React/Vite** on the frontend and **Node.js/
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
