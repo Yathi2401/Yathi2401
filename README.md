@@ -10,8 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yathi2401&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Yathi2401?style=for-the-badge&color=0A66C2&label=FOLLOWERS)
-![Total Stars](https://github-readme-stats.vercel.app/api?username=Yathi2401&show_icons=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Total%20Stars%20Earned&theme=tokyonight&hide_border=true)
-
+![Stars](https://img.shields.io/github/stars/Yathi2401?style=for-the-badge&color=F7DF1E&label=STARS)
 </div>
 
 ---
