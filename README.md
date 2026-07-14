@@ -134,8 +134,6 @@ Full-stack web platform built with **React/Vite** on the frontend and **Node.js/
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*(Repo link pending — send it over and I'll wire it in)*
-
 </td>
 </tr>
 </table>
